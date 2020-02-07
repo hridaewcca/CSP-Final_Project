@@ -29,5 +29,5 @@ Mechanism
 
 # What's going to be hard?
 - Understanding how MediaPipe works
-- Mapping hand movement from how Mediapipe understands it to something that Servos can execute
+- Mapping hand movement from how MediaPipe understands it to something that Servos can execute
 - Creating a small hand that actually works
