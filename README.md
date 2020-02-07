@@ -28,6 +28,6 @@ Mechanism
 | Camera Input     |                 |               |               |
 
 # What's going to be hard?
-Understanding how MediaPipe works
-Mapping hand movement from how Mediapipe understands it to something that Servos can execute
-Creating a small hand that actually works
+- Understanding how MediaPipe works
+- Mapping hand movement from how Mediapipe understands it to something that Servos can execute
+- Creating a small hand that actually works
